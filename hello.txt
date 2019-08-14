@@ -1,6 +1,0 @@
-hello python`
-hello linux
-hello git 
-hello java
-hello world
-你好吗？
